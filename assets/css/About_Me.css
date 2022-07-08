@@ -1,0 +1,61 @@
+#intro{
+    background-image: url(../images/ezgif.com-gif-maker.jpg)  ;
+    height: 600px;
+    background-size: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode: lighten;
+    text-align: center;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+
+#person{
+    height:200px;
+    width:200px;
+    margin-top: 10%;
+    margin-bottom: 3%;
+    position: relative;
+}
+
+
+#my_background{
+    background-color: khaki;
+    height: 600px;
+    text-align: center;
+    border: 100px solid khaki;
+}
+
+#academic{
+   color: aliceblue;
+    background-image: url(../images/Lingnan-University-Hong-Kong-1.jpeg) ;
+    background-size: auto;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#experience{
+    background-color:plum ;
+    height: 600px;
+    text-align: center;
+    border: 100px solid plum;
+}
+
+#drawing{
+    height: 200px;
+    width: 300px;
+}
+
+#hobbies{
+    background-color:cornflowerblue ;
+    height: 700px;
+    text-align: center;
+    border: 100px solid cornflowerblue;
+}
+
